@@ -1,0 +1,25 @@
+These are the libraries used and their versions
+The updated versions of the libraries may conflict with the code provided 
+
+
+cvzone — 1.5.6
+face-recognition — 1.3.0
+face-recognition-models — 0.3.0
+mediapipe — 0.10.5
+opencv-python — 4.11.0.86
+opencv-contrib-python — 4.11.0.86
+tensorflow — 2.12.0
+tensorflow-estimator — 2.12.0
+tensorflow-intel — 2.12.0
+tensorflow-io-gcs-filesystem — 0.31.0
+keras — 2.12.0
+scipy — 1.15.1
+matplotlib — 3.10.0
+numpy — 1.23.5
+pillow — 11.1.0
+protobuf — 3.20.3
+pycaw — 20240210
+python-dateutil — 2.9.0.post0
+requests — 2.32.3
+pymodbus — 3.8.3
+dlib - 19.24.6
